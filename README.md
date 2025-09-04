@@ -1,1 +1,1 @@
-Here, I will keep continually-updated reading course notes in optimal transport, its fundamentals, operator learning, their connections, and neural strategies in these areas with relations to high-level research in these topics.
+Here, I will keep continually-updated reading course notes in optimal transport, its fundamentals, operator learning, their connections, and neural strategies in these areas with relations to high-level research in these topics, such as deep JKO and large scale Wasserstein gradient flows.
